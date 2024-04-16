@@ -1,8 +1,8 @@
 package accio.com.example.taxiride.transformer;
 
 import accio.com.example.taxiride.Models.Customer;
-import accio.com.example.taxiride.Request.CustomerRequest;
-import accio.com.example.taxiride.Response.CustomerResponse;
+import accio.com.example.taxiride.dto.Request.CustomerRequest;
+import accio.com.example.taxiride.dto.Response.CustomerResponse;
 
 public class CustomerTransformer {
 

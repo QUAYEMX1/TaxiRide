@@ -1,4 +1,4 @@
-package accio.com.example.taxiride.Request;
+package accio.com.example.taxiride.dto.Request;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;

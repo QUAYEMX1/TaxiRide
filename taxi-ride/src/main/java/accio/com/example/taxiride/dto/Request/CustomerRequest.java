@@ -1,4 +1,4 @@
-package accio.com.example.taxiride.Request;
+package accio.com.example.taxiride.dto.Request;
 
 import accio.com.example.taxiride.Enums.Gender;
 import lombok.*;

@@ -2,7 +2,7 @@ package accio.com.example.taxiride.Service;
 
 import accio.com.example.taxiride.Models.Driver;
 import accio.com.example.taxiride.Repository.DriverRepository;
-import accio.com.example.taxiride.Request.DriverRequest;
+import accio.com.example.taxiride.dto.Request.DriverRequest;
 import accio.com.example.taxiride.transformer.DriverTransformer;
 import org.springframework.stereotype.Service;
 

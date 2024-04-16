@@ -2,7 +2,7 @@ package accio.com.example.taxiride.transformer;
 
 
 import accio.com.example.taxiride.Models.Cab;
-import accio.com.example.taxiride.Request.CabRequest;
+import accio.com.example.taxiride.dto.Request.CabRequest;
 
 public class CabTransformer {
     public Cab cabToTransformer(CabRequest cabRequest){

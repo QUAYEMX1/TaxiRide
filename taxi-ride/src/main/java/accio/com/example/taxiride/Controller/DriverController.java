@@ -1,6 +1,6 @@
 package accio.com.example.taxiride.Controller;
 
-import accio.com.example.taxiride.Request.DriverRequest;
+import accio.com.example.taxiride.dto.Request.DriverRequest;
 import accio.com.example.taxiride.Service.DriverService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
